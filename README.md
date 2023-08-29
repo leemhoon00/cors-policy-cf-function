@@ -8,5 +8,5 @@ This repository contains a Lambda function designed to manage incoming traffic b
 4. Based on the `Origin` header value, the function will either allow the request to proceed or deny it.
 5. Responses with appropriate status codes and messages will be returned, indicating the access outcome.
 
-Feel free to customize the allowed origin values and error messages in the code to match your application's requirements.
+customize the allowed origin values and error messages in the code to match your application's requirements.
 
